@@ -156,39 +156,7 @@ Application de **gestion du personnel hospitalier** axée sur la **sécurité, l
 
 ---
 
-<details>
-  <summary>🐍 Animation "snake" des contributions (optionnel)</summary>
 
-Pour afficher le serpent qui « mange » tes contributions, crée le fichier
-`.github/workflows/snake.yml` dans ton dépôt de profil avec le contenu ci-dessous,
-puis remplace l'image plus bas.
-
-```yml
-name: Generate Snake
-on:
-  schedule: [ { cron: "0 0 * * *" } ]
-  workflow_dispatch:
-jobs:
-  build:
-    runs-on: ubuntu-latest
-    steps:
-      - uses: Platane/snk@v3
-        with:
-          github_user_name: Gillo1212
-          outputs: |
-            dist/snake.svg
-      - uses: crazy-max/ghaction-github-pages@v3
-        with:
-          target_branch: output
-          build_dir: dist
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-```
-
-```md
-![Snake](https://raw.githubusercontent.com/Gillo1212/Gillo1212/output/snake.svg)
-```
-</details>
 
 <details>
   <summary>🎓 Formation & certifications</summary>
