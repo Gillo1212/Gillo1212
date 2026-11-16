@@ -1,11 +1,3 @@
-<!--
-  README de profil GitHub — Gilbert Augustin NADIELINE (@Gillo1212)
-  POUR PUBLIER :
-   1. Crée un dépôt PUBLIC nommé EXACTEMENT : Gillo1212
-   2. Ajoutes-y ce fichier sous le nom README.md, puis commit.
-  Le pseudo est déjà renseigné : rien d'autre à modifier.
--->
-
 <div align="center">
 
 <!-- Bannière animée (texte qui s'écrit tout seul) -->
@@ -25,13 +17,15 @@
 
 ## 👨‍💻 À propos de moi
 
-- 🧩 **Développeur full-stack** (web & mobile), à l'aise côté **back-end** (Laravel, Node.js, Django, Spring Boot, bases de données) comme côté **interfaces** (React, React Native, TypeScript).
+- 🧩 **Développeur full-stack** (web & mobile), à l'aise côté **back-end** (Laravel, Node.js, Spring Boot, bases de données SQL) comme côté **interfaces** (React, React Native, TypeScript).
 - 🎓 Formé en **MIAGE** (Méthodes Informatiques Appliquées à la Gestion des Entreprises) à l'Université Gaston Berger, et certifié en **Data Analysis** (UNCHK).
 - 🛠️ Je conçois des applications **fiables et sécurisées**, en pilotant les projets **de bout en bout** : besoin → solution → livraison.
-- ☁️ Je monte en compétences sur le **Cloud (Azure, Docker, CI/CD)** et j'explore l'**automatisation via les agents IA** (n8n, Make, OpenAI API).
+- ☁️ Je monte en compétences sur le **Cloud (Azure, Docker, CI/CD)** et j'explore l'**automatisation via les agents IA** (n8n, OpenAI API).
 - 📫 Me contacter : **nadielinegilbert@gmail.com**
 
 > 💡 *« Comprendre rapidement le besoin, proposer une solution pertinente, et la livrer avec méthode et autonomie. »*
+
+🇬🇧 **In English** — Full stack developer based in Dakar, Senegal (Laravel, React, Node.js, SQL). I build web, mobile and business applications end to end, from the data model and API to the interface and deployment, and I integrate AI features through LLM APIs. Open to remote opportunities.
 
 ---
 
@@ -49,7 +43,6 @@
 
 **Frameworks & Front-end**
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
 ![React Native](https://img.shields.io/badge/React%20Native-20232A?style=flat-square&logo=react&logoColor=61DAFB)
@@ -72,12 +65,11 @@
 **IA & Automatisation**
 ![OpenAI](https://img.shields.io/badge/OpenAI%20API-412991?style=flat-square&logo=openai&logoColor=white)
 ![n8n](https://img.shields.io/badge/n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white)
-![Make](https://img.shields.io/badge/Make-6D00CC?style=flat-square&logo=make&logoColor=white)
 
 <br/>
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=php,laravel,py,django,java,spring,js,ts,nodejs,react,bootstrap,mysql,postgres,firebase,supabase,azure,docker,git,github,vscode&perline=10" alt="Compétences" />
+  <img src="https://skillicons.dev/icons?i=php,laravel,py,java,spring,js,ts,nodejs,react,bootstrap,mysql,postgres,firebase,supabase,azure,docker,git,github,vscode&perline=10" alt="Compétences" />
 </div>
 
 ---
@@ -95,40 +87,13 @@ Plateforme pour **distributeurs automatiques** de boissons et snacks, avec **int
 ### 🏥 Progiciel RH sécurisé — Hôpital National de Pikine
 Application de **gestion du personnel hospitalier** axée sur la **sécurité, la confidentialité et l'intégrité des données** (projet de mémoire MIAGE).
 
-### 📌 Quelques dépôts
-
-<div align="center">
-
-<a href="https://github.com/Gillo1212/Chatbot-whatsapp-gillo">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Gillo1212&repo=Chatbot-whatsapp-gillo&theme=tokyonight&hide_border=true" alt="Chatbot WhatsApp (OpenAI + Firebase)" />
-</a>
-<a href="https://github.com/Gillo1212/Gen--CV">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Gillo1212&repo=Gen--CV&theme=tokyonight&hide_border=true" alt="Générateur de CV" />
-</a>
-<a href="https://github.com/Gillo1212/InfinitiaHub">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Gillo1212&repo=InfinitiaHub&theme=tokyonight&hide_border=true" alt="InfinitiaHub — CRM (Laravel)" />
-</a>
-
-</div>
-
-> 💡 Pense à **épingler** ces dépôts sur ton profil (bouton « Customize your pins ») pour qu'ils apparaissent en haut.
-
 ---
 
 ## 📊 Mes statistiques GitHub
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=Gillo1212&show_icons=true&hide_border=true&theme=tokyonight&count_private=true" alt="Stats GitHub" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gillo1212&layout=compact&hide_border=true&theme=tokyonight&langs_count=8" alt="Langages les plus utilisés" />
-
-<br/>
-
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Gillo1212&hide_border=true&theme=tokyonight" alt="Séries de contributions" />
-
-<br/>
-
-<img src="https://github-profile-trophy.vercel.app/?username=Gillo1212&theme=tokyonight&no-frame=true&column=7&margin-w=8" alt="Trophées" />
 
 <br/>
 
@@ -142,7 +107,7 @@ Application de **gestion du personnel hospitalier** axée sur la **sécurité, l
 
 <div align="center">
 
-<a href="https://www.linkedin.com/in/gilbert-nadieline-887369248">
+<a href="https://www.linkedin.com/in/gilbert-nadieline">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
 </a>
 <a href="mailto:nadielinegilbert@gmail.com">
@@ -157,16 +122,15 @@ Application de **gestion du personnel hospitalier** axée sur la **sécurité, l
 ---
 
 
-
 <details>
   <summary>🎓 Formation & certifications</summary>
 
-- **Master 2 MIAGE** — Université Gaston Berger, Saint-Louis *(mémoire en attente de soutenance)*
+- **Master 2 MIAGE** — Université Gaston Berger, Saint-Louis *(cursus complété)*
 - **Licence en Gestion Informatisée** — Université Gaston Berger
-- **Certificat en Data Analysis** — Université Numérique Cheikh Hamidou Kane (UNCHK)
+- **Certificat en Data Analysis** — programme FORCE-N, Université Numérique Cheikh Hamidou Kane (UN-CHK)
 - **Diplôme de Premier Secours** *(secourisme)*
 </details>
 
 <div align="center">
-  <sub>⭐️ N'hésite pas à explorer mes dépôts et à me contacter pour toute collaboration.</sub>
+  <sub>⭐️ N'hésitez pas à explorer mes dépôts et à me contacter pour toute collaboration.</sub>
 </div>
