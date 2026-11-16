@@ -84,7 +84,7 @@ Logiciel **SaaS de gestion commerciale tout-en-un** : stock, ventes, point de ve
 Plateforme pour **distributeurs automatiques** de boissons et snacks, avec **intégration d'un moyen de paiement en ligne**. Application web déployée sur **Microsoft Azure**.
 🔗 **https://senmart-dev.azurewebsites.net**
 
-### 🏥 Progiciel RH sécurisé — Hôpital National de Pikine
+### 🏥 Progiciel RH sécurisé - Hôpital National de Pikine
 Application de **gestion du personnel hospitalier** axée sur la **sécurité, la confidentialité et l'intégrité des données** (projet de mémoire MIAGE).
 
 ---
